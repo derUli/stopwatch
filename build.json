@@ -1,6 +1,6 @@
 {
    "id" : "stopwatch",
-   "version" : "1.0",
+   "version" : "1.1",
    "description" : "A stopwatch based on ipadstopwatch.com",
    "categories" : ["clock", "stopwatch", "accessoires"],
    "compatible_from" : "2017.1",
